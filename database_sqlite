@@ -1,0 +1,4 @@
+CREATE TABLE IF NOT EXISTS umidades (
+  id INTEGER PRIMARY KEY,
+  value TEXT NOT NULL
+);
